@@ -49,6 +49,7 @@ players' potential ratings with 98.92% accuracy using R.
 - Provided visual comparison of training curves, highlighting ViT’s faster learning rate and lower loss values.
 
 
+
 ## Work Experience
  Data Analyst Intern @ Mc Kesson (_Sep 2024 - Apr 2025_)
 -  Automated daily and weekly reports using Python, Excel VBA, and Google Apps Script, reducing manual intervention by over 60% and improving data reliability. 

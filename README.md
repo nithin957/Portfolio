@@ -69,9 +69,4 @@ players' potential ratings with 98.92% accuracy using R.
 - Conducted A/B testing on customer segments to evaluate targeting strategies, optimize marketing effectiveness, and enhance overall portfolio performance.
 - Collaborated with cross-functional teams (Finance, IT, Compliance) under Agile methodology, aligning analytics solutions with business requirements, regulatory frameworks, and organizational objectives..
 
- Data Analyst Intern @ Cognier Insights (_Mar 2020 - sep 2020_)
- - Conducted deep-dive analyses of insurance claims and policy renewals using SQL and Excel, detecting fraud and reducing payout leakages by 10%. 
-- Used Python (pandas, NumPy) for data cleansing and validation, ensuring compliance with internal QA and actuarial standards. 
-- Automated legacy reporting tools using Excel VBA and macros, saving over 20 hours/month in manual work. 
-- Created performance dashboards using Spotfire and Power BI for operational decision-making and process optimization. 
-- Collaborated on review and compilation of statistical reports as part of internal product/process audits. 
+

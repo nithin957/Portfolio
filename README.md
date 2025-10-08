@@ -51,22 +51,23 @@ players' potential ratings with 98.92% accuracy using R.
 
 
 ## Work Experience
- Data Analyst Intern @ Mc Kesson (_Sep 2024 - Apr 2025_)
--  Automated daily and weekly reports using Python, Excel VBA, and Google Apps Script, reducing manual intervention by over 60% and improving data reliability. 
-- Developed time-series forecasting models (ARIMA, Prophet) to predict volume trends, enabling proactive supply chain planning and reduced operational delays. 
-- Built and maintained Power BI dashboards to visualize critical KPIs across procurement, logistics, and inventory control, used by senior leadership for strategic planning. 
-- Conducted Statistical Process Control (SPC) analyses and process capability studies for logistics data, identifying bottlenecks and ensuring performance consistency. 
-- Collaborated with cross-functional teams to implement data validation checks and resolve missing/erroneous data issues in Snowflake. 
-- Supported system data integrity by documenting changes and contributing to internal QA protocols across data pipelines. 
+ Data Analyst @ Blue Cross Blue Shield (_Aug 2024 – Present_)
+-  Built ETL workflows using SSIS and Azure Data Lake to extract, transform, and securely store hospital and claims data, improving efficiency and ensuring HIPAA-compliant handling of sensitive patient information.
+-  Performed exploratory data analysis (EDA) in Python and SQL on large-scale claims datasets to identify high-risk patients, detect readmission patterns, and provide actionable insights to improve patient care.
+-  Developed predictive models in Python (Pandas, NumPy, Scikit-learn) to stratify patient risk, enabling proactive interventions that reduced avoidable hospital readmissions and improved healthcare quality metrics.
+-  Created interactive Tableau dashboards to monitor KPIs such as readmission rates, provider compliance, and treatment effectiveness, reducing manual reporting effort by ~70% and accelerating decision-making for clinical teams.
+-  Collaborated with clinicians, IT, and compliance teams under Agile methodology, documenting BRD/FRD requirements in JIRA and Confluence to ensure transparency, reproducibility, and alignment with healthcare regulations.
+-  Ensured strict adherence to HIPAA, CMS, and HEDIS compliance standards across all analytics, ETL, and reporting processes, strengthening data governance and regulatory accountability.. 
 
- Data Analyst @ Cognier Insights (_Dec 2021 - Jun 2023_)
-- Led analytical projects involving large-scale manufacturing and e-commerce data; performed multivariate analysis and SPC to support client performance reviews and CAPA processes. 
-- Built automated ETL workflows using Python and SQL to integrate CRM, ERP, and transaction system data, reducing manual errors and improving refresh cycle times by 80%. 
-- Developed process capability dashboards using Spotfire and Tableau to identify anomalies in Critical Quality Attributes (CQA) and improve process stability. 
-- Created validation documentation and supported change control processes for analytics workflows in compliance with GMP standards. 
-- Used STATISTICA Workspace and JMP for hypothesis testing, regression, and visualization of quality metrics across production cycles. 
-- Built SEEQ visualizations and configured PI tags to track manufacturing sensor data for time-based trend analyses. 
-- Worked with QA and engineering teams to clean Spotfire workspaces, troubleshoot data gaps, and maintain compliance-ready dashboards.
+ Data Analyst @ Infosys (_May 2020 – Jun 2023_)
+- Collected, cleaned, and analyzed large-scale financial and customer datasets using SQL Server and Oracle, preparing accurate data for credit risk scoring, fraud detection, and SOX/Basel III compliant reporting.
+- Developed predictive models in Python (Scikit-learn) to assess credit risk and detect fraudulent transactions, supporting loan approvals, portfolio management, and financial risk mitigation strategies.
+- Automated ETL pipelines with Apache Spark to process structured and semi-structured transactional data, improving ingestion speed, data quality, and availability for downstream analytics.
+- Managed and integrated datasets in AWS Redshift and Snowflake, combining transactional, customer, and third-party sources for real-time risk analysis and dashboard reporting.
+- Designed and deployed Power BI dashboards to visualize key financial KPIs, credit risk trends, and fraud detection patterns, enabling executives to make faster, data-driven decisions.
+- Implemented advanced statistical modeling in SAS to validate predictive models, monitor accuracy, and ensure risk mitigation strategies aligned with Basel III and SOX compliance standards.
+- Conducted A/B testing on customer segments to evaluate targeting strategies, optimize marketing effectiveness, and enhance overall portfolio performance.
+- Collaborated with cross-functional teams (Finance, IT, Compliance) under Agile methodology, aligning analytics solutions with business requirements, regulatory frameworks, and organizational objectives..
 
  Data Analyst Intern @ Cognier Insights (_Mar 2020 - sep 2020_)
  - Conducted deep-dive analyses of insurance claims and policy renewals using SQL and Excel, detecting fraud and reducing payout leakages by 10%. 
